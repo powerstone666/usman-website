@@ -1,0 +1,14 @@
+<svg width="880" height="220" viewBox="0 0 880 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lgd" x1="36" y1="24" x2="206" y2="194" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF8A65"/>
+      <stop offset="1" stop-color="#4DD0CF"/>
+    </linearGradient>
+  </defs>
+  <rect width="880" height="220" rx="24" fill="#17141D"/>
+  <rect x="26" y="26" width="168" height="168" rx="44" fill="#0E0C12"/>
+  <path d="M142 84L164 82L166 104" stroke="#F4D35E" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M166 82L118 130" stroke="#F4D35E" stroke-width="8" stroke-linecap="round"/>
+  <path d="M136 150C125 160 114 166 98 166C72 166 54 148 54 124C54 100 72 82 98 82C113 82 125 87 134 96" stroke="url(#lgd)" stroke-width="12" stroke-linecap="round"/>
+  <text x="220" y="128" fill="#FFFFFF" font-size="30" font-family="Arial, Helvetica, sans-serif" font-weight="700">Shaik Enterprises Consulting and Development LLC</text>
+</svg>
