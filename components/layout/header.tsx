@@ -8,8 +8,8 @@ export function Header() {
       <div className="container shell header-shell">
         <Link href="/" className="brand" aria-label={`${SITE_NAME} homepage`}>
           <Image
-            src="/brand/icon-mark.png"
-            alt="Shaik Enterprises Consulting and Development LLC icon"
+            src="/usmanlogo.jpeg"
+            alt={`${SITE_NAME} logo`}
             width={36}
             height={36}
             priority

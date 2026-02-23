@@ -31,11 +31,8 @@ export const metadata: Metadata = {
   ...createDefaultMetadata(),
   metadataBase: new URL(SITE_URL),
   icons: {
-    icon: [
-      { url: "/brand/favicon-32.png", sizes: "32x32", type: "image/png" },
-      { url: "/icon.png", type: "image/png" },
-    ],
-    shortcut: [{ url: "/brand/favicon-32.png", type: "image/png" }],
+    icon: [{ url: "/icon.png", type: "image/png" }],
+    shortcut: [{ url: "/icon.png", type: "image/png" }],
     apple: [{ url: "/apple-icon.png", type: "image/png" }],
   },
 };
